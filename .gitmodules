@@ -1,0 +1,3 @@
+[submodule "ExtendedButtons"]
+	path = ExtendedButtons
+	url = git@github.com:Blackghost56/ExtendedButtons.git
